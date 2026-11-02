@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Illia\Documents\Wolf3d-main\Wolf3d-main\Нова папка\build\CMakeFiles\a0082819488fd9dabed69ac7f97d017d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{30FA2E52-D8DA-3D65-9EC7-4E06E30D5CDD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

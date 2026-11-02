@@ -1,0 +1,46 @@
+{
+  "configurations": [
+    {
+      "inheritEnvironments": [
+        "msvc_x64_x64"
+      ],
+      "name": "x64-Debug",
+      "includePath": [
+        "${env.INCLUDE}",
+        "${workspaceRoot}\\Wolf3d-main\\Нова папка\\include",
+        "${workspaceRoot}\\Wolf3d-main\\Нова папка\\third_party\\SDL2-2.32.8\\include",
+        "${workspaceRoot}\\Wolf3d-main\\Нова папка\\third_party\\SDL2_image-2.8.8\\include",
+        "${workspaceRoot}\\**"
+      ],
+      "defines": [
+        "WIN32",
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerSwitches": "/std:c++17 /Zc:__cplusplus /permissive-",
+      "intelliSenseMode": "windows-msvc-x64"
+    },
+    {
+      "inheritEnvironments": [
+        "msvc_x86"
+      ],
+      "name": "x86-Debug",
+      "includePath": [
+        "${env.INCLUDE}",
+        "${workspaceRoot}\\Wolf3d-main\\Нова папка\\include",
+        "${workspaceRoot}\\Wolf3d-main\\Нова папка\\third_party\\SDL2-2.32.8\\include",
+        "${workspaceRoot}\\Wolf3d-main\\Нова папка\\third_party\\SDL2_image-2.8.8\\include",
+        "${workspaceRoot}\\**"
+      ],
+      "defines": [
+        "WIN32",
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerSwitches": "/std:c++17 /Zc:__cplusplus /permissive-",
+      "intelliSenseMode": "windows-msvc-x86"
+    }
+  ]
+}

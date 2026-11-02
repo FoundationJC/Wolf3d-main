@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Illia\Documents\Wolf3d-main\Wolf3d-main\Нова папка\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Illia\Documents\Wolf3d-main\Wolf3d-main\Нова папка\src\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Illia\Documents\Wolf3d-main\Wolf3d-main\Нова папка\src\Raycaster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Illia\Documents\Wolf3d-main\Wolf3d-main\Нова папка\src\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Illia\Documents\Wolf3d-main\Wolf3d-main\Нова папка\src\Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Illia\Documents\Wolf3d-main\Wolf3d-main\Нова папка\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1C1A9508-B5A1-321F-A931-CBAF183D3DD7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
